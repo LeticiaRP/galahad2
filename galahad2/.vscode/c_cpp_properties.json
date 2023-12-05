@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/dinossaurobebado/ros2_ws/install/micro_ros_agent/include/**",
+        "/home/dinossaurobebado/ros2_ws/install/micro_ros_msgs/include/**",
+        "/home/dinossaurobebado/ros2_ws/install/examples_rclcpp_cbg_executor/include/**",
+        "/opt/ros/iron/include/**",
+        "/home/dinossaurobebado/ros2_ws/src/micro-ROS-Agent/micro_ros_agent/include/**",
+        "/home/dinossaurobebado/ros2_ws/src/src/examples/rclcpp/composition/minimal_composition/include/**",
+        "/home/dinossaurobebado/ros2_ws/src/src/examples/rclcpp/executors/cbg_executor/include/**",
+        "/home/dinossaurobebado/ros2_ws/src/src/examples/rclcpp/wait_set/include/**",
+        "/home/dinossaurobebado/ros2_ws/src/uros/micro-ROS-Agent/micro_ros_agent/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

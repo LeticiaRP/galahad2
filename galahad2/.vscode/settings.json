@@ -1,5 +1,4 @@
 {
-    "ros.distro": "iron",
     "python.autoComplete.extraPaths": [
         "/home/dinossaurobebado/ros2_ws/install/galahad2/lib/python3.10/site-packages",
         "/home/dinossaurobebado/ros2_ws/install/ros_zeca/lib/python3.10/site-packages",

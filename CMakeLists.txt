@@ -26,6 +26,10 @@ install(PROGRAMS
   galahad2/scripts/setpoint_node.py
   DESTINATION lib/${PROJECT_NAME})
 
+install(PROGRAMS
+  galahad2/scripts/computer_vision.py
+  DESTINATION lib/${PROJECT_NAME})
+
 if(BUILD_TESTING)
   find_package(ament_lint_auto REQUIRED)
   # the following line skips the linter which checks for copyrights
